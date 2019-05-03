@@ -1,0 +1,10 @@
+.avatar{
+  position: absolute;
+  bottom: 10px;
+  right: 5px;
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border-style: groove;
+}
